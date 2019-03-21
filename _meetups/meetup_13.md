@@ -1,7 +1,7 @@
 ---
 title: "Meetup #13: Causal Inference - framework for understanding Why"
 location: "Netlight, Regeringsgatan 29"
-time: "16:00-21:00, May 9"
+time: "16:30-21:00, May 9"
 tickets: ""
 speakers:
   - anders-holst
